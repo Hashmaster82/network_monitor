@@ -1,0 +1,8 @@
+nodes.json
+history.json
+categories.json
+config.json
+*.pyc
+__pycache__/
+.idea/
+.vscode/
